@@ -1,0 +1,30 @@
+body {
+  background-color: red;
+  margin-left: auto;
+  margin-right: auto;
+  left: 0em;
+  margin-top: auto;
+  margin-bottom: auto;
+  padding-top: 3em;
+  padding-left: 10em;
+  padding-right: 10em;
+}
+
+h2 {
+  margin: 0;
+  font-size: 3em;
+  color: yellow;
+  text-align: center;
+}
+
+p {
+  margin: 0;
+  font-size: 1.5em;
+  color: yellow;
+}
+
+svg.elements {
+  fill: currentColor;
+  width: 1em;
+  height: 1em;
+}
